@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 打包产物
+build/
+dist/
+*.spec
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.log
+错误日志.txt
+
+# 本工具自己生成的备份（如果在仓库里跑过）
+_汉字数字转换备份_*/
